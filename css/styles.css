@@ -1,0 +1,18 @@
+.chart {
+    width: 50%;
+    margin: 2em auto;
+    height:200px;
+}
+
+canvas {
+    width: 100%;
+}
+
+.controls {
+    text-align: center;
+}
+ 
+h1 {
+    text-align: center;
+    margin: 0.1em;
+}
